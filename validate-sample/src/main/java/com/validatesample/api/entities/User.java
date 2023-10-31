@@ -1,4 +1,4 @@
-package com.validatesample.api.validatesample.entities;
+package com.validatesample.api.entities;
 
 import jakarta.persistence.*;
 import lombok.AllArgsConstructor;

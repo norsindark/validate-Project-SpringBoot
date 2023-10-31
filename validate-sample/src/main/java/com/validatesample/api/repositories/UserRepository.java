@@ -1,6 +1,6 @@
-package com.validatesample.api.validatesample.repositories;
+package com.validatesample.api.repositories;
 
-import com.validatesample.api.validatesample.entities.User;
+import com.validatesample.api.entities.User;
 import org.springframework.data.jpa.repository.JpaRepository;
 
 public interface UserRepository extends JpaRepository<User, Integer> {

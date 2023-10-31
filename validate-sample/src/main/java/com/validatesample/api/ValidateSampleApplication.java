@@ -1,4 +1,4 @@
-package com.validatesample.api.validatesample;
+package com.validatesample.api;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;

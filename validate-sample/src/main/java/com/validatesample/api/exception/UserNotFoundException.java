@@ -1,4 +1,4 @@
-package com.validatesample.api.validatesample.exception;
+package com.validatesample.api.exception;
 
 public class UserNotFoundException extends Exception{
     public UserNotFoundException (String message) {

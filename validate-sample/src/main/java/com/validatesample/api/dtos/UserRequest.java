@@ -1,4 +1,4 @@
-package com.validatesample.api.validatesample.dtos;
+package com.validatesample.api.dtos;
 
 import jakarta.validation.constraints.*;
 import lombok.AllArgsConstructor;

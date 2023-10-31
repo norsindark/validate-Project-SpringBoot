@@ -1,9 +1,9 @@
-package com.validatesample.api.validatesample.controllers;
+package com.validatesample.api.controllers;
 
-import com.validatesample.api.validatesample.dtos.UserRequest;
-import com.validatesample.api.validatesample.entities.User;
-import com.validatesample.api.validatesample.exception.UserNotFoundException;
-import com.validatesample.api.validatesample.services.UserService;
+import com.validatesample.api.dtos.UserRequest;
+import com.validatesample.api.exception.UserNotFoundException;
+import com.validatesample.api.entities.User;
+import com.validatesample.api.services.UserService;
 import jakarta.validation.Valid;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.http.HttpStatus;
